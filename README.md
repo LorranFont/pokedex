@@ -1,4 +1,4 @@
-![Pokedex](assets/img/pokedex.png) # pokédex 
+![Pokedex](assets/img/favicon-16x16.png) # pokédex 
 
 ## Prévia do projeto final
 
