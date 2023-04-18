@@ -1,4 +1,4 @@
- <img src"pokedex" href="https://icons8.com.br/icon/45674/pokeball-2" # pokédex 
+![Pokedex](assets/img/pokedex.png) # pokédex 
 
 ## Prévia do projeto final
 
